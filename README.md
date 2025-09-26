@@ -68,18 +68,13 @@ Modelin rastgele seçilen test görselleri üzerindeki tahminleri:
 
 ---
 
-## 📌 Kullanım
+## 📌 Kullanım & Kod Görüntüleme
 
-Bu proje Jupyter Notebook ortamında çalıştırılmak üzere hazırlanmıştır.  
-`Intel Image Classification.ipynb` dosyasını açarak adım adım çalıştırabilirsiniz.  
+Bu projeyi çalıştırmak için:  
+1. Gerekli kütüphaneleri yükle (örn. `pip install -r requirements.txt`)  
+2. `notebook.ipynb` dosyasını açıp hücreleri sırayla çalıştır  
 
-Notebook içerisinde:  
-- Veri seti yükleme  
-- Veri artırma (augmentation)  
-- Modelin kurulumu  
-- Eğitim süreci  
-- Sonuçların görselleştirilmesi  
-- Test görselleri üzerinde tahmin  
+Ayrıca, Kaggle üzerinde projenin orijinal notebook versiyonunu inceleyebilirsin:  
+[Notebook’u Kaggle’da Görüntüle](https://www.kaggle.com/code/beyzanurakar/notebookbf4c787a91)  
 
-adımlarını bulabilirsiniz.
-
+---

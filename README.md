@@ -53,11 +53,6 @@ Model **Keras Sequential API** ile oluşturulmuş olup aşağıdaki katmanlardan
   - Zoom  
   - Yatay çevirme (horizontal flip)  
 
-📊 **Accuracy & Loss Grafikleri:**  
-
-![Accuracy](images/accuracy.png)  
-![Loss](images/loss.png)  
-
 ---
 
 ## 🔍 Test Sonuçları
@@ -70,8 +65,6 @@ Model test veri setinde şu performansı göstermiştir:
 
 ## 🖼️ Örnek Tahminler
 Modelin rastgele seçilen test görselleri üzerindeki tahminleri:  
-
-![Sample Predictions](images/sample_predictions.png)  
 
 ---
 

@@ -70,10 +70,16 @@ Modelin rastgele seçilen test görselleri üzerindeki tahminleri:
 
 ## 📌 Kullanım
 
-Projeyi kendi bilgisayarınızda çalıştırmak için:  
+Bu proje Jupyter Notebook ortamında çalıştırılmak üzere hazırlanmıştır.  
+`Intel Image Classification.ipynb` dosyasını açarak adım adım çalıştırabilirsiniz.  
 
-1. Bu repoyu klonlayın:  
-   ```bash
-   git clone https://github.com/kullaniciadi/intel-image-classification.git
-   cd intel-image-classification
+Notebook içerisinde:  
+- Veri seti yükleme  
+- Veri artırma (augmentation)  
+- Modelin kurulumu  
+- Eğitim süreci  
+- Sonuçların görselleştirilmesi  
+- Test görselleri üzerinde tahmin  
+
+adımlarını bulabilirsiniz.
 
